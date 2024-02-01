@@ -56,3 +56,4 @@ data:
   license:
     <your_license_goes_here>
 ```
+#### Note: you can go also with the [quickstart](https://www.elastic.co/guide/en/cloud-on-k8s/current/k8s-quickstart.html), the difference with this deployment is that I've increased the size of the Elasticsearch disk.
